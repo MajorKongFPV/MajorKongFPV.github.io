@@ -1,0 +1,3 @@
+# Configuration for local dev testing.  
+# Use jekyll serve --config _config.yml,_config_dev.yml
+url: http://localhost:4000

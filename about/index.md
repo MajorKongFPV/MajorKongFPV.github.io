@@ -3,7 +3,7 @@ layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt: "About Major Kong"
 image:
   feature:
   teaser:
@@ -14,4 +14,6 @@ ads: false
 
 This is a work in progress.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+MajorKong.com is named for the atomic-bomb riding cowboy in [Dr. Strangelove](http://www.imdb.com/title/tt0057012/) who seemed to be having fun as he plummeted to earth, much as I often still do.
+
+I am using this site as a place to post my videos, track my progress, and gather information I have found helpful about learning to fly FPV.  Maybe someday it will even be a conduit for companies to send me gear to crash test!

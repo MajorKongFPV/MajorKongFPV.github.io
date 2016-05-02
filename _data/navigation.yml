@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: Hangar
+  url: /hangar/
+  excerpt: "All the flying machines"
   image: 400x250.gif
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
+- title: Posts
+  url: /posts/
+  excerpt: "Information I find helpful"
   image: 400x250.gif
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+- title: Videos
+  url: /videos/
+  excerpt: "The soaring highs and crashing lows"
   image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "About me"
   image: 400x250.gif
