@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: majorkonglogo1600.png
+  feature: MajorKongLogo1600.png
 ---
 
 <div class="tiles">
