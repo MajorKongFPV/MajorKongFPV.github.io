@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Major Kong</title>
+  <title></title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.3</generator>
-    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
-  <subtitle>A beginners gets his FPV wings</subtitle>
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2016-05-03T11:31:25-04:00</updated>
-  <id>http://localhost:4000/</id>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2016-06-09T15:15:46-04:00</updated>
+  <id>/</id>
   <author>
-    <name>Colin Blake</name>
-    <uri>http://localhost:4000/</uri>
-    <email>colinblake@gmail.com</email>
+    <name></name>
+    <uri>/</uri>
+    
   </author>
 
   
   <entry>
     <title>TBS Discovery</title>
-    <link href="http://localhost:4000/hangar/TBS-Discovery/"/>
+    <link href="/hangar/2016/05/02/TBS-Discovery.html"/>
     <updated>2016-05-02T00:00:00-04:00</updated>
-    <id>http://localhost:4000/hangar/TBS-Discovery</id>
+    <id>/hangar/2016/05/02/TBS-Discovery</id>
     <author>
-      <name>Colin Blake</name>
-      <uri>http://localhost:4000/</uri>
-      <email>colinblake@gmail.com</email>
+      <name></name>
+      <uri>/</uri>
+      
     </author>
     <content type="html">
       
@@ -36,16 +36,16 @@
   
   <entry>
     <title>Media Post with Large Feature Image</title>
-    <link href="http://localhost:4000/media/sample-media-page/"/>
+    <link href="/media/2014/02/03/sample-media-page.html"/>
     <updated>2014-02-03T00:00:00-05:00</updated>
-    <id>http://localhost:4000/media/sample-media-page</id>
+    <id>/media/2014/02/03/sample-media-page</id>
     <author>
-      <name>Colin Blake</name>
-      <uri>http://localhost:4000/</uri>
-      <email>colinblake@gmail.com</email>
+      <name></name>
+      <uri>/</uri>
+      
     </author>
     <content type="html">
-      &lt;img src=&quot;http://localhost:4000/images/lock-1600x800.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;/images/lock-1600x800.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;This is a sample media post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
 
 &lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
@@ -61,13 +61,13 @@
   
   <entry>
     <title>Sample Post Style Guide</title>
-    <link href="http://localhost:4000/articles/sample-post/"/>
+    <link href="/articles/2011/03/10/sample-post.html"/>
     <updated>2011-03-10T00:00:00-05:00</updated>
-    <id>http://localhost:4000/articles/sample-post</id>
+    <id>/articles/2011/03/10/sample-post</id>
     <author>
-      <name>Colin Blake</name>
-      <uri>http://localhost:4000/</uri>
-      <email>colinblake@gmail.com</email>
+      <name></name>
+      <uri>/</uri>
+      
     </author>
     <content type="html">
       
@@ -75,11 +75,32 @@
 
 &lt;nav class=&quot;toc&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#heading-2-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot; id=&quot;markdown-toc-heading-2-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot;&gt;Heading 2: Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#list-types&quot; id=&quot;markdown-toc-list-types&quot;&gt;List Types&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-2-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot; id=&quot;markdown-toc-heading-2-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot;&gt;Heading 2: Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#heading-3-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot; id=&quot;markdown-toc-heading-3-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot;&gt;Heading 3: Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#heading-4-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot; id=&quot;markdown-toc-heading-4-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot;&gt;Heading 4: Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#heading-5-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot; id=&quot;markdown-toc-heading-5-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot;&gt;Heading 5: Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/a&gt;                &lt;ul&gt;
+                  &lt;li&gt;&lt;a href=&quot;#heading-6-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot; id=&quot;markdown-toc-heading-6-lorem-ipsum-dolor-sit-amet-test-link-adipiscing-elit-this-is-strong-nullam-dignissim-convallis-est-quisque-aliquam&quot;&gt;Heading 6: Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#body-text&quot; id=&quot;markdown-toc-body-text&quot;&gt;Body text&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#blockquotes&quot; id=&quot;markdown-toc-blockquotes&quot;&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#list-types&quot; id=&quot;markdown-toc-list-types&quot;&gt;List Types&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#ordered-lists&quot; id=&quot;markdown-toc-ordered-lists&quot;&gt;Ordered Lists&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#unordered-lists&quot; id=&quot;markdown-toc-unordered-lists&quot;&gt;Unordered Lists&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tables&quot; id=&quot;markdown-toc-tables&quot;&gt;Tables&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#code-snippets&quot; id=&quot;markdown-toc-code-snippets&quot;&gt;Code Snippets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#buttons&quot; id=&quot;markdown-toc-buttons&quot;&gt;Buttons&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#buttons&quot; id=&quot;markdown-toc-buttons&quot;&gt;Buttons&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-media-buttons&quot; id=&quot;markdown-toc-social-media-buttons&quot;&gt;Social Media Buttons&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#badges&quot; id=&quot;markdown-toc-badges&quot;&gt;Badges&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#notices&quot; id=&quot;markdown-toc-notices&quot;&gt;Notices&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fieldsets-and-form-elements&quot; id=&quot;markdown-toc-fieldsets-and-form-elements&quot;&gt;Fieldsets and Form Elements&lt;/a&gt;&lt;/li&gt;

@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: majorkonglogo1600.png
 ---
 
 <div class="tiles">
