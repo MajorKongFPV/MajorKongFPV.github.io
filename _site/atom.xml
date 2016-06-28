@@ -7,7 +7,7 @@
   <subtitle>A beginners gets his FPV wings</subtitle>
   <link href="http://localhost:4000/atom.xml" rel="self"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2016-06-28T16:58:45-04:00</updated>
+  <updated>2016-06-28T17:04:50-04:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name>Colin Blake</name>
@@ -30,7 +30,7 @@
       &lt;img src=&quot;http://localhost:4000/images/MajorKongLogo1600.png&quot;&gt;&lt;br/&gt;
       &lt;p&gt;Printable frequency charts for the various 5.8 GHz frequency bands to assist groups of pilots identify channels that will not conflict with one another.&lt;/p&gt;
 
-&lt;h2 id=&quot;sizes&quot;&gt;Sizes:&lt;/h2&gt;
+&lt;h3 id=&quot;sizes&quot;&gt;Sizes:&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://localhost:4000/files/frequency-charts/frequency-chart_business-card.pdf&quot;&gt;Business Card&lt;/a&gt;&lt;/li&gt;
