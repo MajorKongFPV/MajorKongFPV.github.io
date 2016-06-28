@@ -1,11 +1,16 @@
 # Authors
 
-colin:
-  name: Colin Blake
+majorkong:
+  name: Major Kong (Colin Blake)
   web: http://www.majorkong.com
   email: colinblake@gmail.com
   bio: "Certified prop durability tester"
   avatar: bio-photo.jpg
-#  twitter: extravagantman
-#  google:
-#    plus: +BillyRick
+  
+dronimo:
+  name: Dronimo (Jacob Garland)
+  web: http://www.majorkong.com
+  email: jacobgarland@gmail.com
+  bio: "Free freelance graphic wizard"
+  avatar: bio-photo.jpg
+

@@ -20,7 +20,14 @@
   excerpt: "Helpful links"
   image: 400x250.gif
 
+
+- title: Reference
+  url: /reference/
+  excerpt: "Reference"
+  image: 400x250.gif
+
 - title: About
   url: /about/
   excerpt: "About me"
   image: 400x250.gif
+  
