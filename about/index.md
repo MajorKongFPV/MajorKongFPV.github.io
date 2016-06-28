@@ -1,19 +1,35 @@
 ---
 layout: article
 title: "About"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
-excerpt: "About Major Kong"
+date: 
+modified: 
+excerpt: "About MajorKong.com"
 image:
-  feature:
+  feature: MajorKongLogo1600.png
   teaser:
   thumb:
 share: false
-ads: false
+ads: true
 ---
 
 This is a work in progress.
 
-MajorKong.com is named for the atomic-bomb riding cowboy in [Dr. Strangelove](http://www.imdb.com/title/tt0057012/) who seemed to be having fun as he plummeted to earth, much as I often still do.
+MajorKong.com is named for the atomic-bomb riding cowboy in [Dr. Strangelove](http://www.imdb.com/title/tt0057012/) who seemed to be having fun as he plummeted to earth.
 
-I am using thi site as a place to post my videos, track my progress, and gather information I have found helpful about learning to fly FPV.  Maybe someday it will even be a conduit for companies to send me gear to crash test!
+We're using this site to post videos, track my progress, and gather information we have found helpful about learning to fly FPV.  Maybe someday it will even be a conduit for companies to send us gear to crash test!
+
+<div class="tiles">
+	{% for author in site.data.authors %}
+		 <div class="author_tile">
+			<img src="{{ site.url }}/images/{{ author[1].avatar }}" alt="{{ author.name }}">
+	  		<h2 class="post-title">{{ author[1].name }}</h2>
+	  		<p class="post-excerpt">{{ author[1].bio }}</p>
+			<b>Stats</b>
+			<br>
+			Frames broken: {{ author[1].stats.frames }}<br>
+			Quads lost: {{ author[1].stats.lost }}<br>
+			Lost quads recovered: {{ author[1].stats.recovered }}<br>
+			ESCs fried: {{ author[1].stats.escs }}<br>
+		</div>
+	{% endfor %}
+</div>

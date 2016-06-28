@@ -1,16 +1,24 @@
 # Authors
-
 majorkong:
-  name: Major Kong (Colin Blake)
+  name: Major Kong
   web: http://www.majorkong.com
-  email: colinblake@gmail.com
+  email: 
   bio: "Certified prop durability tester"
-  avatar: bio-photo.jpg
-  
+  avatar: MajorKong100x100.png
+  stats:
+    frames: 2
+    lost: 2
+    recovered: 1
+    escs: 2
+
 dronimo:
-  name: Dronimo (Jacob Garland)
+  name: Dronimo
   web: http://www.majorkong.com
-  email: jacobgarland@gmail.com
+  email: 
   bio: "High-altitude quadcopter retrieval specialist and graphical wizard"
   avatar: bio-photo.jpg
-
+  stats:
+    frames: 1
+    lost: 1
+    recovered: 0
+    escs: 0
