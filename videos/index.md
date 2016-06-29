@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
+title: "Videos and Playlists"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt:
 tags: []
 image:
-  feature:
+  feature: MajorKongLogo1600.png
   teaser:
 ---
 
@@ -15,3 +15,7 @@ image:
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+Major Kong Flight Video Playlist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZcOcwi2HBK13ThwRIRmLsoiTmCQB9lBn" frameborder="0" allowfullscreen></iframe>

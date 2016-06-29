@@ -1,11 +1,11 @@
 ---
 layout: article
 title: "Hangar"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+date: 
+modified:
 excerpt: "Major Kong's Aircraft"
 image:
-  feature:
+  feature: MajorKongLogo1600.png
   teaser:
   thumb:
 share: false

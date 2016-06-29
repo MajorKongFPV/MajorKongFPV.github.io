@@ -4,6 +4,7 @@ permalink: /
 image:
   feature: MajorKongLogo1600.png
 ---
+{% include post-list-bullets.html %}
 <!--
 <div class="tiles">
 
@@ -34,3 +35,4 @@ image:
 
 </div>
 -->
+

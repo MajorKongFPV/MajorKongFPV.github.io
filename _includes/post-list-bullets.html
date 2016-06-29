@@ -1,8 +1,10 @@
 <div class="bullets">
 	{% for post in site.posts %}
-	<div class="bullet three-col-bullet">
+	<div class="bullet one-col-bullet">
 		<div class="bullet-icon">
+			{% if post.image.teaser != nil %}
 			<a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt=""></a>
+			{% endif %}
 		</div><!-- /.bullet-icon -->
 		<div class="bullet-content">
 			<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
