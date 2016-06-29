@@ -4,7 +4,7 @@ title: "Terms & Conditions"
 modified: 2014-08-27T15:00:35-04:00
 excerpt: "Terms & conditions, privacy policy, license, and other legal stuff you won’t read."
 image:
-  feature:
+  feature: MajorKongLogo1600.png
   teaser:
   thumb:
 share: false

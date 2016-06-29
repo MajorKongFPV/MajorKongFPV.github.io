@@ -6,7 +6,7 @@ modified:
 excerpt: "About MajorKong.com"
 image:
   feature: MajorKongLogo1600.png
-  teaser:
+  teaser: 
   thumb:
 share: false
 ads: true
